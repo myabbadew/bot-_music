@@ -1,6 +1,6 @@
 owner=505481937243340810
-prefix=!p
-game=Break | !p
+prefix=&
+game=Abbas
 stayinchannel=true
 songinstatus=false
 token=NTY3NzcxMjg4MzQ5OTY2MzUx.XLah1w.7r7Swq1nohzcVFGDl18HyDw9lqw
