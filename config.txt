@@ -3,4 +3,4 @@ prefix=&
 game=Abbas
 stayinchannel=true
 songinstatus=false
-token=NTY3NzcxMjg4MzQ5OTY2MzUx.XLax-A.kGNbQlFaz7YkT5UO2lbv_bhr2c4
+token=NTY3NzcxMjg4MzQ5OTY2MzUx.XLhqOw.kP9PRKX4jK8gWnHwz55e5RHHSGQ
