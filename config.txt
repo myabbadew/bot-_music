@@ -1,6 +1,6 @@
 owner=505481937243340810
 prefix=&
-game=Abbas
+game=&play
 stayinchannel=true
 songinstatus=false
 token=NTY3NzcxMjg4MzQ5OTY2MzUx.XLhqOw.kP9PRKX4jK8gWnHwz55e5RHHSGQ
