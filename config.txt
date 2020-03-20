@@ -1,6 +1,6 @@
 owner=505481937243340810
 prefix=a
-game=شغل
+game=aplay
 stayinchannel=true
 songinstatus=false
-token=NjkwNTMyMTc3ODY3MTc4MDQ0.XnUyXg.pF6iUw1Ps7p4y_0sdTzJcv_8CvA
+token=NTY3NzcxMjg4MzQ5OTY2MzUx.XnVDkg.THESu67cQboPMBMEvW4cG1JFMjk
