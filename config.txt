@@ -3,4 +3,4 @@ prefix=a
 game=شغل
 stayinchannel=true
 songinstatus=false
-token=NTY3NzcxMjg4MzQ5OTY2MzUx.XWSSdg.p2l1kP7bhYeLjdwqcpQgAUue_u4
+token=NjkwNTMyMTc3ODY3MTc4MDQ0.XnUu6Q.wkD0ceXLGz_wgbT0yvAJ7cao4D4
